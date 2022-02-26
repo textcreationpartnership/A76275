@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties remonstrance to his subjects of England, touching the great worke, and present affaires of the Kingdome; consisting of eight severall branches; sent from the Kings most Excellent Majesty now resident in the Isle of Wheight and subscribed, Charles Rex. Together with His Majesties proposition to Colonel Hammond (Governour of the said island) concerning His Royall Person, the Army, and Kingdome. And the Governours answer thereunto. With a copy of the new protestation, to be tendred to each respective regiment throughout the Army. Imprimatur, Gilb. Mabbott.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76275</idno>
+            <idno type="STC">Wing B1552</idno>
+            <idno type="STC">Thomason E416_24</idno>
+            <idno type="STC">ESTC R204610</idno>
+            <idno type="EEBO-CITATION">99864076</idno>
+            <idno type="PROQUEST">99864076</idno>
+            <idno type="VID">161301</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76275)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161301)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E416[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties remonstrance to his subjects of England, touching the great worke, and present affaires of the Kingdome; consisting of eight severall branches; sent from the Kings most Excellent Majesty now resident in the Isle of Wheight and subscribed, Charles Rex. Together with His Majesties proposition to Colonel Hammond (Governour of the said island) concerning His Royall Person, the Army, and Kingdome. And the Governours answer thereunto. With a copy of the new protestation, to be tendred to each respective regiment throughout the Army. Imprimatur, Gilb. Mabbott.</title>
+                  <author>Baynton, Edward, Sir, 1619?-1679.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C. for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>'..now resident in the Isle of Wheight..' is in square brackets.</note>
+                  <note>Signed on p. 4: Edward Baynton.</note>
+                  <note>Annotation on Thomason copy: "Nou: 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161301:1" rendition="simple:additions"/>
+            <p>The Kings Majeſties REMONSTRANCE TO His Subjects of <hi>England,</hi> touching the Great Worke, and preſent Affaires of the Kingdome; Conſiſting of Eight ſ veral B<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nches: S<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Kings moſt Excellent Majeſty [now r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent n the Iſle of <hi>WHEIGHT</hi>] and <hi>Sub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cribed, CHARLES REX.</hi>
+            </p>
+            <p>Together with His Majeſties Prop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſition to Col<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onel <hi>Hammond</hi> Govern<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the ſa d Iſland) concerning His Royall P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<g ref="char:EOLhyphen"/>ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the Army, and Kingdome. And the Governours Anſwer thereunto With a Copy of the new Proteſtation, to be tendred to each reſpective Regiment throughout the <hi>ARMY.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Imprimatur,</hi>
+                  </p>
+                  <closer>
+                     <signed>G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>b. Mabbort.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </q>
+            </figure>
+            <p>LONDON, Printed by J.C. for G. HORTON, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161301:2"/>
+            <pb n="1" facs="tcp:161301:2"/>
+            <head>His Majeſties laſt MESSAGE TO The Lords and Commons aſſembled in Parliament, to be communicated to His Subiects of <hi>Scotland.</hi>
+            </head>
+            <div type="letter">
+               <head>Sent in a Letter from His Majeſties Court in the Jſle of Wight, <hi>Novemb. 20. 1647.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>HIs Majeſty is ſomewhat more pleaſanter, then at His firſt comming, and begins to recreat himſelf, taking his pleaſure abroad in the Iſland, both in hunting, and other de<g ref="char:EOLhyphen"/>lightfull Sports, being much ſati fied in mind, touching his entertainment in this Iſland. Moſt of the Gentry, that are re<g ref="char:EOLunhyphen"/>ſident here, hath viſited the Court, and divers beene admitted to kiſſe his Majeſties hand.</p>
+               <pb n="2" facs="tcp:161301:3"/>
+               <p>Great joy is made throughout the whole Iſland, at his Ma<g ref="char:EOLhyphen"/>jeſties ſafe arrivall, and much loyalty ſhewed by the Inhabi<g ref="char:EOLhyphen"/>tants thereof, eſpecially by the Gentry of Newport, who at his Majeſties coming to that Towne, entertained his Royall Perſon very gallantly, and declared themſelves with much loyalty, promiſing ſecurity to his Majeſties Perſon, and to preſerve and defend His gracious Majeſty from all danger whatſoever.</p>
+               <p>His Majeſty hath declared his gracious will and pleaſure to our Governour, touching the reſpective Regiments in the Army, who hath divided and ſeparated themſelves from the obedience and command of the Generall, A Copy whereof I have here ſent you incloſed; together with his Majeſties Propoſals to both Houſes of Parliament, both which I have hereunto annexed, viz.</p>
+               <p>HAmmond, after an intollerable reſtraint to my Perſon it Hampton Court, I found there was a further deſigne againſt my perſon by a dividing party in the Armie; and ha<g ref="char:EOLhyphen"/>ving an earneſt deſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of ſetling of the Kingdome, in ſuch ſort as might beſt conduce to a laſting peace throughout my Do<g ref="char:EOLhyphen"/>minions, and not to be an inſtrument of ſtirring up a new war, I have thought good to declare, that I am confident of your fidelity in protecting my perſon from danger, untill by ſuch addreſſes as ſhall be made unto Us by the parliament, there be a mutuall agreement concluded, and Our Kingdome ſetled.</p>
+               <p>To which our Govervour replied, that he tend ered his Majeſties perſon above his own life, and would not fai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> doing his utmoſt in fulfilling his M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jeſties Deſires, in relation to the orders and directions which he ſhould receive from the Parliament.</p>
+               <p>Then his Majeſty proceeded on in ſending new propoſi<g ref="char:EOLhyphen"/>tions to the Parliament, the chiefe heads whereof, I have here ſent you incloſed, viz.</p>
+               <p n="1">
+                  <pb n="3" facs="tcp:161301:3"/>1. His Majeſty conceives himſelf bound not to aboliſh E<g ref="char:EOLhyphen"/>piſcopacie, both as he is a Chriſtian, and as he i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a King; As he is a Chriſtian, it being inſtituted by Chriſt and his Apo<g ref="char:EOLhyphen"/>ſtles: And as he is a King, being bound to maintaine them by the Oath which he ſwore at his Coronation; And by them the Doctrine of Religion, the Government and Diſcipline of the Church, which hath under his predeceſſours been main<g ref="char:EOLhyphen"/>tained.</p>
+               <p n="2">2. For ſale of the Biſhops Lands, his Majeſty holds it high ſacriledge, they hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng been given to them by divers Benefa<g ref="char:EOLhyphen"/>ctors.</p>
+               <p n="3">3. His Majeſtie offers to call in all his Proclamations, and Declarations, againſt the parliament and thoſe who have ad<g ref="char:EOLhyphen"/>hered to them; and will give order for withdrawing all In<g ref="char:EOLhyphen"/>ditements againſt thoſe who have adhered to the Part. And his Majeſty offers to paſſe an Act of Indempnity and generall pardon.</p>
+               <p n="4">4. For the A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mie, his Majeſty undertakes with the monies received, and due, and to be received out of Sequeſtrations, to pay 400000. l. for payment of the Army their Arreares; and if it will not do it, his Majeſty will make it up out of Forreſt Lands.</p>
+               <p n="5">5. His Majeſtie is content to part with the Mili i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Kingdom, during his own life, but t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a after his Reigne; it may return again <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o its proper place.</p>
+               <p n="6">6. For the publigue Debts of the Kingdome, his Majeſtie will conferre wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h his two Houſes of parliament for the pay<g ref="char:EOLhyphen"/>ment of them. And his Maj. is content to confirm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch Offi<g ref="char:EOLhyphen"/>cers of State, as the two Houſes of parliament ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll nominate, ctc. 7. That the Propoſals of the Army be taken into conſi<g ref="char:EOLhyphen"/>deration by the two Houſes of parliament.</p>
+               <p n="8">8. That his M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>je<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y be admitted to come to London, to conſult with his Parliament, for the ſetling of a firme and la<g ref="char:EOLhyphen"/>ſting peace.</p>
+               <closer>
+                  <signed>Subſcribed, CHARLES REX.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="4" facs="tcp:161301:4"/>
+               <p>Sir, Thus have I given you the chiefe ſubſtance of his Majeſties Propoſitions, ſent to the Lords and Commons aſſembled at Weſtminſter, &amp;c. as alſo the late circumſtances, which paſſed betwixt the Kings Majeſty, and our Governor, being all at pre<g ref="char:EOLhyphen"/>ſent, from</p>
+               <closer>
+                  <signed>
+                     <hi>Your moſt affectionate friend,</hi> Edward Baynton.</signed>
+                  <dateline>
+                     <hi>Newport, in the Jſle of Wight,</hi>
+                     <date>Nov. 17.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>The Copy of a Letter from the Army, touching the proceedings of the Souldicry.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THe late proceedings of the Army, at their Randezvouze betwixt Hartford and Ware, tends much to unity and concord, and a moſt hap<g ref="char:EOLhyphen"/>py complyance begins to take impreſſion in the hearts of the Majorality, for the ſtorme is almoſt o<g ref="char:EOLhyphen"/>ver, and the diſmall Cloud diſſolved, for thoſe who appeared, and ſeemed moſt forward in the late En<g ref="char:EOLhyphen"/>gagement, begins now to be viſible in a contrary character, and hath declared very unanimouſly to
+<pb n="5" facs="tcp:161301:4"/> be conformable and obedient to the commands of the Generall, being reſolved to ſubſcribe to the late Proteſtation, agreed upon by his Excellency, and his Councell of War, a copy whereof I have here ſent you incloſed. Thoſe Regiments which ſeemed moſt oppoſite and refractory againſt the Generalls commands, were col. Harriſons and col. Lilburnes, who appeared in the field in a very ſtrange poſture, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing quite cont<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ary to their former principles, The Generall declared himſelf very ſatisfactory at the head of each Regiment, which gave great con<g ref="char:EOLhyphen"/>tent to the Soul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iery, inſomuch that a happy com<g ref="char:EOLhyphen"/>plyance proceeded throughout the greateſt part of the Army, for continuance whereof, is the earneſt deſire of</p>
+               <closer>
+                  <signed>Your obedient ſervant, <hi>Robert Riſhton.</hi>
+                  </signed>
+                  <dateline>Hartford
+<date>Nov. 19!</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>The Proteſtation</head>
+               <p>VVEE the Officers and Souldiers of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Regiment of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> whoſe Names are ſubſcribed, do hereby declare, That wee are ſatisfied in his Excellency, the Generall, continued conjucti<g ref="char:EOLhyphen"/>on with the Army, in the lawfull, proſecution of
+<pb n="6" facs="tcp:161301:5"/> the things formerly declared, to be proſecuted for the Souldiery and Kingdome reſpectively<g ref="char:punc">▪</g> And (for the particular circumſtances of them) we ſhall (according to the generall Engage<g ref="char:EOLhyphen"/>ment of the Army above mentioned) acquieſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in what ſhall be agreed unto by the Generall Councell of the Army, to which that Engage<g ref="char:EOLhyphen"/>ment referres; and for matter of the ordering, conduct, and government of the Army, we ſhall be obſervant of, and ſubject to his Excellencie, his Councell of Warre, and (every one of us) to our Superiour Officers in this Regiment and the Army, according to the Diſcipline of Warre.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
